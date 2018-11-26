@@ -1,0 +1,16 @@
+H1 {
+    font-family: 'Anton', sans-serif;
+  color: cyan;
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 3px 3px 1px black 
+    
+}
+p {
+    font-family: 'Hind', sans-serif;
+  color: red;
+}
+ul {
+    font-family: 'Hind', sans-serif;
+    color: red;
+}
